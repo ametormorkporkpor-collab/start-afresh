@@ -1,0 +1,35 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h2{
+    font-size: 30px;
+   text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+button{
+    margin: 0 auto;
+    display: block;
+    background-color: tomato;
+   border: black solid 2px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    
+}   
+body{
+    background-image: url("image/capcut\ background.png") ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+
+
+    
+
+}
