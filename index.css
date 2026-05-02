@@ -1,0 +1,66 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h2{
+    font-size: 50px;
+   text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+button:hover{
+    box-shadow : 3px 3px rgb(117, 13, 159), 6px 6px rgb(255, 0, 0), 9px 9px rgb(255, 0, 111);  
+    transform: translate(-2px,2px)
+}
+#increment-btn{
+    margin: 0 auto;
+    display: block;
+    background-color: tomato;
+   border: black solid 2px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    
+    
+    
+}   
+#save-btn{
+
+    margin: 0 auto;
+    display: block;
+    background-color: tomato;
+   border: black solid 2px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    font-family: sans-serif;
+    background-image: url("image/capcut\ background.png") ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.container{
+   background: white
+   max-width: 80px;
+   border-radius: 10px;
+   border: 3px solid black
+}
